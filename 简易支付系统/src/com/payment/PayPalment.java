@@ -1,6 +1,6 @@
 package com.payment;
 
-interface PayPalment{ 
+public interface PayPalment{ 
     // 判断接口
     boolean pal(double amount);
 }
